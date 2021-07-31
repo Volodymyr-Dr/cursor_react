@@ -18,7 +18,10 @@ const publications = [
     content: "WTF? Who is Ray? Why she is Skywalker? Luke...?",
     image: RAY_IMAGE,
     date: "26 черв.",
-    
+    coments: "223",
+    share: "23",
+    likes: "323",
+    download: "123"
   },
   {
     id: 1,
@@ -28,7 +31,10 @@ const publications = [
     content: "May..I will to be a new captain?",
     image: SPIDER_IMAGE,
     date: "21 лип.",
-    
+    coments: "252",
+    share: "52",
+    likes: "552",
+    download: "152"
   }
 ]
 
